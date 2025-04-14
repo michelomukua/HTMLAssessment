@@ -1,13 +1,12 @@
-h2, h3, h5 {
+h2, h3, h4, h5 {
   color:darkblue;
-  font-family: 'sans-serif;', sans-serif; /* Optional: change font */
+  font-family: 'sans-serif;', sans-serif;
 }
 <style>
     table {
       border-collapse: collapse;
       width: 100%;
     }
-
     th, td {
       border: 2px solid; 
       padding: 10px;
@@ -17,9 +16,10 @@ h2, h3, h5 {
     th {
       color: black;             
     }
-  </style>
+    .h4{
+      list-style-type: square;
 
-
-  .square-list {
-  list-style-type: square;
+    }
+    body {
+  background-color: lightskyblue; 
    }
