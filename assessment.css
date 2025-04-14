@@ -1,0 +1,25 @@
+h2, h3, h5 {
+  color:darkblue;
+  font-family: 'sans-serif;', sans-serif; /* Optional: change font */
+}
+<style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 2px solid; 
+      padding: 10px;
+      text-align: left;
+    }
+
+    th {
+      color: black;             
+    }
+  </style>
+
+
+  .square-list {
+  list-style-type: square;
+   }
